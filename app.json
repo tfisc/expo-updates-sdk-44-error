@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "upgrade-sdk-44-error",
+    "slug": "upgrade-sdk-44-error",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
